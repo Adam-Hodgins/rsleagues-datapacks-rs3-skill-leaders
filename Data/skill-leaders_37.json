@@ -1,5 +1,5 @@
 {
-  "logged_at": "2026-08-10T12:55:26.382575+00:00",
+  "logged_at": "2026-08-10T12:32:53.936305+00:00",
   "skills": [
     {
       "category": "Overall",
@@ -8,23 +8,23 @@
     },
     {
       "category": "Attack",
-      "player_name": "RJJC",
-      "experience": 3943
+      "player_name": "Koalafwoski",
+      "experience": 3117
     },
     {
       "category": "Defence",
-      "player_name": "ani mosityyy",
-      "experience": 11472
+      "player_name": "V Sulik",
+      "experience": 4039
     },
     {
       "category": "Strength",
-      "player_name": "RJJC",
-      "experience": 3943
+      "player_name": "Koalafwoski",
+      "experience": 3117
     },
     {
       "category": "Constitution",
-      "player_name": "null",
-      "experience": 92729
+      "player_name": "V Sulik",
+      "experience": 3550
     },
     {
       "category": "Ranged",
@@ -63,8 +63,8 @@
     },
     {
       "category": "Firemaking",
-      "player_name": "PTP Duen",
-      "experience": 20737
+      "player_name": "YodaTheBaby",
+      "experience": 9409
     },
     {
       "category": "Crafting",
@@ -73,8 +73,8 @@
     },
     {
       "category": "Smithing",
-      "player_name": "Fluff E",
-      "experience": 1040
+      "player_name": "Sean Fails",
+      "experience": 1007
     },
     {
       "category": "Mining",
@@ -93,13 +93,13 @@
     },
     {
       "category": "Thieving",
-      "player_name": "MikoPono",
-      "experience": 73415
+      "player_name": "Paine Train",
+      "experience": 49312
     },
     {
       "category": "Slayer",
-      "player_name": "Pugadina",
-      "experience": 6674
+      "player_name": "Kneesuk",
+      "experience": 2716
     },
     {
       "category": "Farming",
