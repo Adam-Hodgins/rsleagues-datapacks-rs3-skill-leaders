@@ -1,5 +1,5 @@
 {
-  "logged_at": "2026-08-10T16:55:35.161466+00:00",
+  "logged_at": "2026-08-10T16:25:31.093807+00:00",
   "skills": [
     {
       "category": "Overall",
@@ -13,18 +13,18 @@
     },
     {
       "category": "Defence",
-      "player_name": "Demonheadge",
-      "experience": 4213299
+      "player_name": "NoCG",
+      "experience": 719704
     },
     {
       "category": "Strength",
-      "player_name": "DandiRyan",
-      "experience": 556805
+      "player_name": "TwigsnBones",
+      "experience": 300741
     },
     {
       "category": "Constitution",
-      "player_name": "DandiRyan",
-      "experience": 551487
+      "player_name": "NoCG",
+      "experience": 514205
     },
     {
       "category": "Ranged",
@@ -33,8 +33,8 @@
     },
     {
       "category": "Prayer",
-      "player_name": "Zawxi",
-      "experience": 6307581
+      "player_name": "mckevin5",
+      "experience": 3474414
     },
     {
       "category": "Magic",
@@ -43,18 +43,18 @@
     },
     {
       "category": "Cooking",
-      "player_name": "Geniasis",
-      "experience": 509450
+      "player_name": "Pavocado",
+      "experience": 451302
     },
     {
       "category": "Woodcutting",
       "player_name": "smokeofpeace",
-      "experience": 2845975
+      "experience": 1545235
     },
     {
       "category": "Fletching",
       "player_name": "zerosimonn",
-      "experience": 710268
+      "experience": 448252
     },
     {
       "category": "Fishing",
@@ -63,8 +63,8 @@
     },
     {
       "category": "Firemaking",
-      "player_name": "Hot the Hot",
-      "experience": 3078076
+      "player_name": "McGiggle",
+      "experience": 2605736
     },
     {
       "category": "Crafting",
@@ -73,23 +73,23 @@
     },
     {
       "category": "Smithing",
-      "player_name": "Slaskern",
-      "experience": 390012
+      "player_name": "A Wizardd",
+      "experience": 361763
     },
     {
       "category": "Mining",
-      "player_name": "Dvdrak",
-      "experience": 921502
+      "player_name": "titelolo",
+      "experience": 778852
     },
     {
       "category": "Herblore",
-      "player_name": "Trombyy",
-      "experience": 149486
+      "player_name": "Sir Wally 1",
+      "experience": 115037
     },
     {
       "category": "Agility",
-      "player_name": "Casus Belli",
-      "experience": 15795971
+      "player_name": "Okke",
+      "experience": 13896565
     },
     {
       "category": "Thieving",
@@ -103,8 +103,8 @@
     },
     {
       "category": "Farming",
-      "player_name": "Dvdrak_GIM",
-      "experience": 2685206
+      "player_name": "Unknow1000",
+      "experience": 1525085
     },
     {
       "category": "Runecrafting",
@@ -113,13 +113,13 @@
     },
     {
       "category": "Hunter",
-      "player_name": "CynicalJoy",
-      "experience": 304616
+      "player_name": "UltiMiriam",
+      "experience": 151368
     },
     {
       "category": "Construction",
-      "player_name": "YrexOfCinder",
-      "experience": 512315
+      "player_name": "CTN_Rigatoni",
+      "experience": 468673
     },
     {
       "category": "Summoning",
@@ -128,13 +128,13 @@
     },
     {
       "category": "Dungeoneering",
-      "player_name": "MrJinglez77",
-      "experience": 37600
+      "player_name": "Ngis",
+      "experience": 24800
     },
     {
       "category": "Divination",
       "player_name": "Casus Belli",
-      "experience": 1574944
+      "experience": 955799
     },
     {
       "category": "Invention",
@@ -143,8 +143,8 @@
     },
     {
       "category": "Archaeology",
-      "player_name": "pikonpika",
-      "experience": 112477
+      "player_name": "HardcoraGage",
+      "experience": 105182
     },
     {
       "category": "Necromancy",
