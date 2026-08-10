@@ -1,40 +1,40 @@
 {
-  "logged_at": "2026-08-10T22:25:54.569901+00:00",
+  "logged_at": "2026-08-10T21:56:06.167327+00:00",
   "skills": [
     {
       "category": "Overall",
-      "player_name": "Challenjord",
-      "experience": 108308178
+      "player_name": "Dwagonwider",
+      "experience": 56393019
     },
     {
       "category": "Attack",
-      "player_name": "bodye",
-      "experience": 13121829
+      "player_name": "Yzeren Man",
+      "experience": 2544191
     },
     {
       "category": "Defence",
-      "player_name": "Fred Weasley",
-      "experience": 13985437
+      "player_name": "Demonheadge",
+      "experience": 7057166
     },
     {
       "category": "Strength",
-      "player_name": "ITickEatBrew",
-      "experience": 3608158
+      "player_name": "Pibbul",
+      "experience": 1314066
     },
     {
       "category": "Constitution",
-      "player_name": "bodye",
-      "experience": 5226011
+      "player_name": "TheGoldenZ",
+      "experience": 1701038
     },
     {
       "category": "Ranged",
-      "player_name": "FakeWiamy",
-      "experience": 1327223
+      "player_name": "BondMaster73",
+      "experience": 1238367
     },
     {
       "category": "Prayer",
-      "player_name": "mckevin5",
-      "experience": 15985947
+      "player_name": "Having Luck",
+      "experience": 14521447
     },
     {
       "category": "Magic",
@@ -49,12 +49,12 @@
     {
       "category": "Woodcutting",
       "player_name": "smokeofpeace",
-      "experience": 9460844
+      "experience": 8157444
     },
     {
       "category": "Fletching",
-      "player_name": "Challenjord",
-      "experience": 50079765
+      "player_name": "Mistrock",
+      "experience": 3525548
     },
     {
       "category": "Fishing",
@@ -73,8 +73,8 @@
     },
     {
       "category": "Smithing",
-      "player_name": "Rbrs2",
-      "experience": 2247431
+      "player_name": "LeaguesRDumb",
+      "experience": 1854442
     },
     {
       "category": "Mining",
@@ -88,13 +88,13 @@
     },
     {
       "category": "Agility",
-      "player_name": "SenorPeanuts",
-      "experience": 60870988
+      "player_name": "5th Cel",
+      "experience": 52144595
     },
     {
       "category": "Thieving",
-      "player_name": "SenorPeanuts",
-      "experience": 104980297
+      "player_name": "Having Luck",
+      "experience": 51695424
     },
     {
       "category": "Slayer",
@@ -128,8 +128,8 @@
     },
     {
       "category": "Dungeoneering",
-      "player_name": "Faded Memoir",
-      "experience": 16399073
+      "player_name": "Jordie",
+      "experience": 10886574
     },
     {
       "category": "Divination",
@@ -143,13 +143,13 @@
     },
     {
       "category": "Archaeology",
-      "player_name": "M4Dn00b",
-      "experience": 843616
+      "player_name": "CorgisVovse",
+      "experience": 612143
     },
     {
       "category": "Necromancy",
-      "player_name": "payout",
-      "experience": 13796972
+      "player_name": "Teaa Cup",
+      "experience": 5454778
     }
   ]
 }
