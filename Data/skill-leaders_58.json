@@ -1,10 +1,10 @@
 {
-  "logged_at": "2026-08-10T23:26:02.249991+00:00",
+  "logged_at": "2026-08-10T22:56:03.425694+00:00",
   "skills": [
     {
       "category": "Overall",
-      "player_name": "IM Dandy Dan",
-      "experience": 75454030
+      "player_name": "Harrie stijl",
+      "experience": 83976114
     },
     {
       "category": "Attack",
@@ -28,23 +28,23 @@
     },
     {
       "category": "Ranged",
-      "player_name": "gim sheepers",
-      "experience": 5365544
+      "player_name": "Grayjedi67",
+      "experience": 2917457
     },
     {
       "category": "Prayer",
-      "player_name": "Macaroni Bro",
-      "experience": 18937086
+      "player_name": "mckevin5",
+      "experience": 15985947
     },
     {
       "category": "Magic",
-      "player_name": "Kard Huk",
-      "experience": 7784980
+      "player_name": "Mistime",
+      "experience": 4465361
     },
     {
       "category": "Cooking",
-      "player_name": "Dyli",
-      "experience": 6853907
+      "player_name": "SlayLifeAway",
+      "experience": 4073838
     },
     {
       "category": "Woodcutting",
@@ -53,8 +53,8 @@
     },
     {
       "category": "Fletching",
-      "player_name": "Perfectuxd",
-      "experience": 50303600
+      "player_name": "Challenjord",
+      "experience": 50079765
     },
     {
       "category": "Fishing",
@@ -73,8 +73,8 @@
     },
     {
       "category": "Smithing",
-      "player_name": "Fe_Quackie",
-      "experience": 3344344
+      "player_name": "Rbrs2",
+      "experience": 2247431
     },
     {
       "category": "Mining",
@@ -88,8 +88,8 @@
     },
     {
       "category": "Agility",
-      "player_name": "Exploiting",
-      "experience": 63651249
+      "player_name": "SenorPeanuts",
+      "experience": 60870988
     },
     {
       "category": "Thieving",
@@ -98,13 +98,13 @@
     },
     {
       "category": "Slayer",
-      "player_name": "TzCokChad",
-      "experience": 2673614
+      "player_name": "Corax",
+      "experience": 1276790
     },
     {
       "category": "Farming",
-      "player_name": "Cabbage-port",
-      "experience": 41880020
+      "player_name": "Harrie stijl",
+      "experience": 32547656
     },
     {
       "category": "Runecrafting",
@@ -118,8 +118,8 @@
     },
     {
       "category": "Construction",
-      "player_name": "EstateAgent5",
-      "experience": 13207605
+      "player_name": "JohnnyBoy XD",
+      "experience": 1025558
     },
     {
       "category": "Summoning",
@@ -143,13 +143,13 @@
     },
     {
       "category": "Archaeology",
-      "player_name": "Sanascreamer",
-      "experience": 908248
+      "player_name": "M4Dn00b",
+      "experience": 843616
     },
     {
       "category": "Necromancy",
-      "player_name": "V2 in my Gym",
-      "experience": 14127696
+      "player_name": "payout",
+      "experience": 13796972
     }
   ]
 }
