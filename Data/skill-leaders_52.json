@@ -1,10 +1,10 @@
 {
-  "logged_at": "2026-08-10T20:25:48.934364+00:00",
+  "logged_at": "2026-08-10T19:56:00.197789+00:00",
   "skills": [
     {
       "category": "Overall",
-      "player_name": "Dyselexic",
-      "experience": 43249923
+      "player_name": "ironmeowmeo",
+      "experience": 31312143
     },
     {
       "category": "Attack",
@@ -14,7 +14,7 @@
     {
       "category": "Defence",
       "player_name": "Demonheadge",
-      "experience": 5542906
+      "experience": 4797336
     },
     {
       "category": "Strength",
@@ -23,8 +23,8 @@
     },
     {
       "category": "Constitution",
-      "player_name": "TheGoldenZ",
-      "experience": 1701038
+      "player_name": "Tha RS Spoon",
+      "experience": 1115654
     },
     {
       "category": "Ranged",
@@ -49,22 +49,22 @@
     {
       "category": "Woodcutting",
       "player_name": "smokeofpeace",
-      "experience": 6701664
+      "experience": 5487796
     },
     {
       "category": "Fletching",
-      "player_name": "Mistrock",
-      "experience": 3525548
+      "player_name": "zerosimonn",
+      "experience": 710268
     },
     {
       "category": "Fishing",
       "player_name": "GIMVanguard",
-      "experience": 1940210
+      "experience": 1708370
     },
     {
       "category": "Firemaking",
       "player_name": "McGiggle",
-      "experience": 13424136
+      "experience": 13282814
     },
     {
       "category": "Crafting",
@@ -74,27 +74,27 @@
     {
       "category": "Smithing",
       "player_name": "Matt J S",
-      "experience": 1655810
+      "experience": 1564086
     },
     {
       "category": "Mining",
       "player_name": "Gwinners BTW",
-      "experience": 1978877
+      "experience": 1847584
     },
     {
       "category": "Herblore",
-      "player_name": "Mistrock",
-      "experience": 996000
+      "player_name": "NLDikzak",
+      "experience": 362996
     },
     {
       "category": "Agility",
-      "player_name": "SenorPeanuts",
-      "experience": 42592008
+      "player_name": "payout",
+      "experience": 36601835
     },
     {
       "category": "Thieving",
-      "player_name": "SenorPeanuts",
-      "experience": 41642052
+      "player_name": "Having Luck",
+      "experience": 27096101
     },
     {
       "category": "Slayer",
@@ -103,8 +103,8 @@
     },
     {
       "category": "Farming",
-      "player_name": "Donzel",
-      "experience": 15304449
+      "player_name": "okeneko gim",
+      "experience": 15182378
     },
     {
       "category": "Runecrafting",
@@ -118,18 +118,18 @@
     },
     {
       "category": "Construction",
-      "player_name": "Nexico",
-      "experience": 875763
+      "player_name": "Iron Spyro",
+      "experience": 829016
     },
     {
       "category": "Summoning",
       "player_name": "R 1 1 1 N",
-      "experience": 742188
+      "experience": 536374
     },
     {
       "category": "Dungeoneering",
-      "player_name": "Pantel2",
-      "experience": 3160059
+      "player_name": "Faded Memoir",
+      "experience": 2493311
     },
     {
       "category": "Divination",
@@ -149,7 +149,7 @@
     {
       "category": "Necromancy",
       "player_name": "Teaa Cup",
-      "experience": 5454778
+      "experience": 1746210
     }
   ]
 }
