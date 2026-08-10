@@ -1,10 +1,10 @@
 {
-  "logged_at": "2026-08-10T19:26:02.189301+00:00",
+  "logged_at": "2026-08-10T19:56:00.197789+00:00",
   "skills": [
     {
       "category": "Overall",
-      "player_name": "Uhygge",
-      "experience": 37647779
+      "player_name": "ironmeowmeo",
+      "experience": 31312143
     },
     {
       "category": "Attack",
@@ -28,8 +28,8 @@
     },
     {
       "category": "Ranged",
-      "player_name": "Jacuji",
-      "experience": 1021541
+      "player_name": "BondMaster73",
+      "experience": 1238367
     },
     {
       "category": "Prayer",
@@ -44,7 +44,7 @@
     {
       "category": "Cooking",
       "player_name": "SlayLifeAway",
-      "experience": 2009166
+      "experience": 4073838
     },
     {
       "category": "Woodcutting",
@@ -68,13 +68,13 @@
     },
     {
       "category": "Crafting",
-      "player_name": "Ninja Rune54",
-      "experience": 3643344
+      "player_name": "RandomRelics",
+      "experience": 5263177
     },
     {
       "category": "Smithing",
-      "player_name": "Iron Benda",
-      "experience": 873574
+      "player_name": "Matt J S",
+      "experience": 1564086
     },
     {
       "category": "Mining",
@@ -83,33 +83,33 @@
     },
     {
       "category": "Herblore",
-      "player_name": "BrotherBuchu",
-      "experience": 341183
+      "player_name": "NLDikzak",
+      "experience": 362996
     },
     {
       "category": "Agility",
-      "player_name": "SenorPeanuts",
-      "experience": 32746696
+      "player_name": "payout",
+      "experience": 36601835
     },
     {
       "category": "Thieving",
-      "player_name": "Okke",
-      "experience": 26476677
+      "player_name": "Having Luck",
+      "experience": 27096101
     },
     {
       "category": "Slayer",
-      "player_name": "LetsKickJohn",
-      "experience": 490257
+      "player_name": "TallnSmally",
+      "experience": 748087
     },
     {
       "category": "Farming",
       "player_name": "okeneko gim",
-      "experience": 15134450
+      "experience": 15182378
     },
     {
       "category": "Runecrafting",
-      "player_name": "Miss Ed",
-      "experience": 1822046
+      "player_name": "Skerf",
+      "experience": 13050073
     },
     {
       "category": "Hunter",
@@ -123,18 +123,18 @@
     },
     {
       "category": "Summoning",
-      "player_name": "Noble Axe",
-      "experience": 338316
+      "player_name": "R 1 1 1 N",
+      "experience": 536374
     },
     {
       "category": "Dungeoneering",
-      "player_name": "8w1",
-      "experience": 60608
+      "player_name": "Faded Memoir",
+      "experience": 2493311
     },
     {
       "category": "Divination",
-      "player_name": "Casus Belli",
-      "experience": 2020057
+      "player_name": "Chesterbento",
+      "experience": 2086900
     },
     {
       "category": "Invention",
@@ -143,13 +143,13 @@
     },
     {
       "category": "Archaeology",
-      "player_name": "turtle FMK",
-      "experience": 179472
+      "player_name": "Das Wanderer",
+      "experience": 424956
     },
     {
       "category": "Necromancy",
-      "player_name": "xaj",
-      "experience": 667814
+      "player_name": "Teaa Cup",
+      "experience": 1746210
     }
   ]
 }
