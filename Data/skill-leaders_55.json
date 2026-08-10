@@ -1,10 +1,10 @@
 {
-  "logged_at": "2026-08-10T21:56:06.167327+00:00",
+  "logged_at": "2026-08-10T21:26:07.719594+00:00",
   "skills": [
     {
       "category": "Overall",
-      "player_name": "Dwagonwider",
-      "experience": 56393019
+      "player_name": "Gwynrwyn",
+      "experience": 50855540
     },
     {
       "category": "Attack",
@@ -14,12 +14,12 @@
     {
       "category": "Defence",
       "player_name": "Demonheadge",
-      "experience": 7057166
+      "experience": 5542906
     },
     {
       "category": "Strength",
-      "player_name": "Pibbul",
-      "experience": 1314066
+      "player_name": "Mar-kri-san",
+      "experience": 1239114
     },
     {
       "category": "Constitution",
@@ -38,8 +38,8 @@
     },
     {
       "category": "Magic",
-      "player_name": "Mistime",
-      "experience": 4465361
+      "player_name": "Schokotraum",
+      "experience": 3560356
     },
     {
       "category": "Cooking",
@@ -49,7 +49,7 @@
     {
       "category": "Woodcutting",
       "player_name": "smokeofpeace",
-      "experience": 8157444
+      "experience": 6701664
     },
     {
       "category": "Fletching",
@@ -73,28 +73,28 @@
     },
     {
       "category": "Smithing",
-      "player_name": "LeaguesRDumb",
-      "experience": 1854442
+      "player_name": "Matt J S",
+      "experience": 1655810
     },
     {
       "category": "Mining",
-      "player_name": "Chuwumn",
-      "experience": 3309178
+      "player_name": "wopy",
+      "experience": 2672729
     },
     {
       "category": "Herblore",
-      "player_name": "Donzel",
-      "experience": 1006377
+      "player_name": "Mistrock",
+      "experience": 996000
     },
     {
       "category": "Agility",
-      "player_name": "5th Cel",
-      "experience": 52144595
+      "player_name": "TetsuTsuki",
+      "experience": 47823997
     },
     {
       "category": "Thieving",
-      "player_name": "Having Luck",
-      "experience": 51695424
+      "player_name": "SenorPeanuts",
+      "experience": 41642052
     },
     {
       "category": "Slayer",
@@ -113,13 +113,13 @@
     },
     {
       "category": "Hunter",
-      "player_name": "Maldagen",
-      "experience": 1218216
+      "player_name": "CynicalJoy",
+      "experience": 304616
     },
     {
       "category": "Construction",
-      "player_name": "JohnnyBoy XD",
-      "experience": 1025558
+      "player_name": "hatakuulutus",
+      "experience": 948383
     },
     {
       "category": "Summoning",
@@ -128,8 +128,8 @@
     },
     {
       "category": "Dungeoneering",
-      "player_name": "Jordie",
-      "experience": 10886574
+      "player_name": "Faded Memoir",
+      "experience": 8048248
     },
     {
       "category": "Divination",
@@ -143,8 +143,8 @@
     },
     {
       "category": "Archaeology",
-      "player_name": "CorgisVovse",
-      "experience": 612143
+      "player_name": "Das Wanderer",
+      "experience": 424956
     },
     {
       "category": "Necromancy",
