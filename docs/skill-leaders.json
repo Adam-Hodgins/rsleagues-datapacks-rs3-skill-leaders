@@ -1,15 +1,15 @@
 {
-  "logged_at": "2026-08-11T04:55:47.657663+00:00",
+  "logged_at": "2026-08-11T05:25:50.590227+00:00",
   "skills": [
     {
       "category": "Overall",
       "player_name": "Harrie stijl",
-      "experience": 201363148
+      "experience": 215592369
     },
     {
       "category": "Attack",
       "player_name": "KashStack",
-      "experience": 15188892
+      "experience": 16136451
     },
     {
       "category": "Defence",
@@ -24,7 +24,7 @@
     {
       "category": "Constitution",
       "player_name": "KashStack",
-      "experience": 12292095
+      "experience": 13230209
     },
     {
       "category": "Ranged",
@@ -54,12 +54,12 @@
     {
       "category": "Fletching",
       "player_name": "Kupawn",
-      "experience": 104395429
+      "experience": 200000000
     },
     {
       "category": "Fishing",
       "player_name": "DannnGIM",
-      "experience": 4625400
+      "experience": 5923320
     },
     {
       "category": "Firemaking",
@@ -88,8 +88,8 @@
     },
     {
       "category": "Agility",
-      "player_name": "SenorPeanuts",
-      "experience": 106564172
+      "player_name": "D_cog",
+      "experience": 120018695
     },
     {
       "category": "Thieving",
