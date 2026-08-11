@@ -1,30 +1,30 @@
 {
-  "logged_at": "2026-08-11T20:26:08.454173+00:00",
+  "logged_at": "2026-08-11T19:56:28.961944+00:00",
   "skills": [
     {
       "category": "Overall",
-      "player_name": "Gwynrwyn",
-      "experience": 444214200
+      "player_name": "x_MLG_PURE_x",
+      "experience": 512181891
     },
     {
       "category": "Attack",
       "player_name": "KashStack",
-      "experience": 26641091
+      "experience": 26532186
     },
     {
       "category": "Defence",
-      "player_name": "Sean",
-      "experience": 200000000
+      "player_name": "Luigi 2",
+      "experience": 198080036
     },
     {
       "category": "Strength",
       "player_name": "KashStack",
-      "experience": 26635194
+      "experience": 26526289
     },
     {
       "category": "Constitution",
-      "player_name": "moxielf",
-      "experience": 23440413
+      "player_name": "Dyselexic",
+      "experience": 21870573
     },
     {
       "category": "Ranged",
@@ -49,7 +49,7 @@
     {
       "category": "Woodcutting",
       "player_name": "Anthonyw93",
-      "experience": 15948925
+      "experience": 14829963
     },
     {
       "category": "Fletching",
@@ -58,8 +58,8 @@
     },
     {
       "category": "Fishing",
-      "player_name": "YodaTheBaby",
-      "experience": 13250687
+      "player_name": "M 1 R 1 4 M",
+      "experience": 13238480
     },
     {
       "category": "Firemaking",
@@ -84,7 +84,7 @@
     {
       "category": "Herblore",
       "player_name": "Nexesys",
-      "experience": 19422787
+      "experience": 14207817
     },
     {
       "category": "Agility",
@@ -119,7 +119,7 @@
     {
       "category": "Construction",
       "player_name": "Jobpog",
-      "experience": 200000000
+      "experience": 105931552
     },
     {
       "category": "Summoning",
@@ -138,8 +138,8 @@
     },
     {
       "category": "Invention",
-      "player_name": "Gwynrwyn",
-      "experience": 81452487
+      "player_name": "Tubby Loser",
+      "experience": 7082206
     },
     {
       "category": "Archaeology",
@@ -149,7 +149,7 @@
     {
       "category": "Necromancy",
       "player_name": "MilesL",
-      "experience": 200000000
+      "experience": 171762608
     }
   ]
 }
