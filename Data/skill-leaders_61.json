@@ -1,10 +1,10 @@
 {
-  "logged_at": "2026-08-11T00:56:12.722985+00:00",
+  "logged_at": "2026-08-11T00:25:55.512835+00:00",
   "skills": [
     {
       "category": "Overall",
       "player_name": "Harrie stijl",
-      "experience": 112116298
+      "experience": 107572479
     },
     {
       "category": "Attack",
@@ -43,13 +43,13 @@
     },
     {
       "category": "Cooking",
-      "player_name": "SlayLifeAway",
-      "experience": 13056390
+      "player_name": "Pavocado",
+      "experience": 6865302
     },
     {
       "category": "Woodcutting",
       "player_name": "smokeofpeace",
-      "experience": 12176704
+      "experience": 9460844
     },
     {
       "category": "Fletching",
@@ -58,8 +58,8 @@
     },
     {
       "category": "Fishing",
-      "player_name": "HC Thighs",
-      "experience": 3813960
+      "player_name": "PvM Leo",
+      "experience": 3704450
     },
     {
       "category": "Firemaking",
@@ -73,13 +73,13 @@
     },
     {
       "category": "Smithing",
-      "player_name": "Mudrock",
-      "experience": 7003940
+      "player_name": "Kyuremu",
+      "experience": 6228726
     },
     {
       "category": "Mining",
       "player_name": "Chuwumn",
-      "experience": 10406246
+      "experience": 8958936
     },
     {
       "category": "Herblore",
@@ -89,12 +89,12 @@
     {
       "category": "Agility",
       "player_name": "SenorPeanuts",
-      "experience": 83674468
+      "experience": 79330948
     },
     {
       "category": "Thieving",
       "player_name": "SenorPeanuts",
-      "experience": 150257083
+      "experience": 142749634
     },
     {
       "category": "Slayer",
@@ -104,12 +104,12 @@
     {
       "category": "Farming",
       "player_name": "Cabbage-port",
-      "experience": 104952890
+      "experience": 41880020
     },
     {
       "category": "Runecrafting",
-      "player_name": "moxielf",
-      "experience": 50298018
+      "player_name": "umi neko",
+      "experience": 39491459
     },
     {
       "category": "Hunter",
@@ -133,8 +133,8 @@
     },
     {
       "category": "Divination",
-      "player_name": "Sad Trent",
-      "experience": 3316571
+      "player_name": "Kujiwarrior",
+      "experience": 2602164
     },
     {
       "category": "Invention",
@@ -148,8 +148,8 @@
     },
     {
       "category": "Necromancy",
-      "player_name": "Dear anyone",
-      "experience": 15457720
+      "player_name": "V2 in my Gym",
+      "experience": 14127696
     }
   ]
 }
