@@ -1,10 +1,10 @@
 {
-  "logged_at": "2026-08-11T01:26:15.313368+00:00",
+  "logged_at": "2026-08-11T01:56:11.000213+00:00",
   "skills": [
     {
       "category": "Overall",
-      "player_name": "Harrie stijl",
-      "experience": 112116298
+      "player_name": "LeaguesRDumb",
+      "experience": 103544884
     },
     {
       "category": "Attack",
@@ -28,8 +28,8 @@
     },
     {
       "category": "Ranged",
-      "player_name": "gim sheepers",
-      "experience": 5365544
+      "player_name": "Maldagen",
+      "experience": 9119183
     },
     {
       "category": "Prayer",
@@ -49,7 +49,7 @@
     {
       "category": "Woodcutting",
       "player_name": "smokeofpeace",
-      "experience": 12176704
+      "experience": 13063844
     },
     {
       "category": "Fletching",
@@ -58,8 +58,8 @@
     },
     {
       "category": "Fishing",
-      "player_name": "HC Thighs",
-      "experience": 3813960
+      "player_name": "PvM Leo",
+      "experience": 4576930
     },
     {
       "category": "Firemaking",
@@ -73,13 +73,13 @@
     },
     {
       "category": "Smithing",
-      "player_name": "Dayvhus",
-      "experience": 12379942
+      "player_name": "Puhis95",
+      "experience": 32358225
     },
     {
       "category": "Mining",
       "player_name": "Chuwumn",
-      "experience": 10406246
+      "experience": 13035638
     },
     {
       "category": "Herblore",
@@ -88,8 +88,8 @@
     },
     {
       "category": "Agility",
-      "player_name": "SenorPeanuts",
-      "experience": 83674468
+      "player_name": "Rautajorski",
+      "experience": 87695627
     },
     {
       "category": "Thieving",
@@ -99,7 +99,7 @@
     {
       "category": "Slayer",
       "player_name": "TzCokChad",
-      "experience": 2673614
+      "experience": 3549134
     },
     {
       "category": "Farming",
@@ -148,8 +148,8 @@
     },
     {
       "category": "Necromancy",
-      "player_name": "MilesL",
-      "experience": 20529679
+      "player_name": "Dear anyone",
+      "experience": 15457720
     }
   ]
 }
