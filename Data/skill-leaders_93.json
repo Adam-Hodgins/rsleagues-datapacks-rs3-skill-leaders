@@ -1,5 +1,5 @@
 {
-  "logged_at": "2026-08-11T16:55:45.263231+00:00",
+  "logged_at": "2026-08-11T16:25:52.495810+00:00",
   "skills": [
     {
       "category": "Overall",
@@ -18,8 +18,8 @@
     },
     {
       "category": "Strength",
-      "player_name": "KashStack",
-      "experience": 16861843
+      "player_name": "Hill Giant",
+      "experience": 16683778
     },
     {
       "category": "Constitution",
@@ -79,7 +79,7 @@
     {
       "category": "Mining",
       "player_name": "Which Hoard",
-      "experience": 18715173
+      "experience": 16813939
     },
     {
       "category": "Herblore",
@@ -134,7 +134,7 @@
     {
       "category": "Divination",
       "player_name": "Lamp User",
-      "experience": 21616204
+      "experience": 18035132
     },
     {
       "category": "Invention",
