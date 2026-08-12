@@ -1,5 +1,5 @@
 {
-  "logged_at": "2026-08-12T00:26:25.802946+00:00",
+  "logged_at": "2026-08-12T00:56:09.668245+00:00",
   "skills": [
     {
       "category": "Overall",
@@ -28,8 +28,8 @@
     },
     {
       "category": "Ranged",
-      "player_name": "ID1MI",
-      "experience": 23271710
+      "player_name": "Maldagen",
+      "experience": 31715736
     },
     {
       "category": "Prayer",
@@ -49,7 +49,7 @@
     {
       "category": "Woodcutting",
       "player_name": "Quackalil",
-      "experience": 22995935
+      "experience": 24226667
     },
     {
       "category": "Fletching",
@@ -79,7 +79,7 @@
     {
       "category": "Mining",
       "player_name": "smol gremwin",
-      "experience": 19025798
+      "experience": 19076866
     },
     {
       "category": "Herblore",
@@ -99,7 +99,7 @@
     {
       "category": "Slayer",
       "player_name": "Freshdal",
-      "experience": 104758022
+      "experience": 200000000
     },
     {
       "category": "Farming",
@@ -114,7 +114,7 @@
     {
       "category": "Hunter",
       "player_name": "Pieterjan",
-      "experience": 136035106
+      "experience": 138380430
     },
     {
       "category": "Construction",
