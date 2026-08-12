@@ -1,5 +1,5 @@
 {
-  "logged_at": "2026-08-12T22:57:00.169604+00:00",
+  "logged_at": "2026-08-12T22:26:36.472308+00:00",
   "skills": [
     {
       "category": "Overall",
@@ -44,7 +44,7 @@
     {
       "category": "Cooking",
       "player_name": "Kupawn",
-      "experience": 200000000
+      "experience": 104882370
     },
     {
       "category": "Woodcutting",
@@ -64,12 +64,12 @@
     {
       "category": "Firemaking",
       "player_name": "Riov",
-      "experience": 81725709
+      "experience": 76839462
     },
     {
       "category": "Crafting",
-      "player_name": "Nelticom",
-      "experience": 54115404
+      "player_name": "Mistrock",
+      "experience": 50509019
     },
     {
       "category": "Smithing",
@@ -134,7 +134,7 @@
     {
       "category": "Divination",
       "player_name": "unavailing",
-      "experience": 73656765
+      "experience": 50742333
     },
     {
       "category": "Invention",
