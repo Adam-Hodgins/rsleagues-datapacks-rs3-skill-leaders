@@ -1,5 +1,5 @@
 {
-  "logged_at": "2026-08-13T02:26:09.024350+00:00",
+  "logged_at": "2026-08-13T01:56:00.110308+00:00",
   "skills": [
     {
       "category": "Overall",
@@ -8,8 +8,8 @@
     },
     {
       "category": "Attack",
-      "player_name": "IronNuva",
-      "experience": 110641494
+      "player_name": "Purisu",
+      "experience": 105159715
     },
     {
       "category": "Defence",
@@ -28,8 +28,8 @@
     },
     {
       "category": "Ranged",
-      "player_name": "Molkkipo",
-      "experience": 115361501
+      "player_name": "S1ight1yDead",
+      "experience": 105090738
     },
     {
       "category": "Prayer",
@@ -64,12 +64,12 @@
     {
       "category": "Firemaking",
       "player_name": "Quackalil",
-      "experience": 120046394
+      "experience": 108890804
     },
     {
       "category": "Crafting",
       "player_name": "Nelticom",
-      "experience": 79613674
+      "experience": 60140959
     },
     {
       "category": "Smithing",
