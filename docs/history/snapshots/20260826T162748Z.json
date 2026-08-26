@@ -1,4 +1,6 @@
 {
+  "schema_version": 1,
+  "series": "skill-leaders",
   "logged_at": "2026-08-26T16:27:48.793386+00:00",
   "skills": [
     {
